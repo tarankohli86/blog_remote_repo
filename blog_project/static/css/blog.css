@@ -1,0 +1,39 @@
+.content{
+    width: 60%;
+    float: left;
+    padding: 0 0 0 30px;
+    background-color: bisque;
+
+}
+.sidebar{
+    height:auto;
+    width: 40%;
+    float: right;
+    padding: 10px;
+    background-color: rgb(216, 173, 157);
+}
+
+
+h1{ 
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+}
+body{
+    color: black;
+    background-color: bisque;
+    
+}
+
+#date{
+    font-style: italic;
+    color: black;
+    font-size: 12px;
+}
+
+#pcount
+{
+    font-size: 40px;
+    font-weight: bold;
+
+}
